@@ -2,7 +2,7 @@
   <div class="flex flex-row overflow-hidden">
     <div class="flex-fill br b--black-20">
       <grid
-        data-url="https://www.flex.io/api/v1/streams/n4gz56kdxm7y/content"
+        data-url="http://api.jsonbin.io/b/5a7602eba9fdc978c1f3c637"
         :custom-headers="{ 'Authorization': 'Bearer kmzdxtzwybzyqrqjbrnm' }"
         :live-scroll="live_scroll"
         @metrics-change="onGridMetricsChange"
